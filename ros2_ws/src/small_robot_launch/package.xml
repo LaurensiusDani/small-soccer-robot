@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>small_robot_launch</name>
+  <version>0.0.1</version>
+  <description>Launch files for Small Soccer Robot system</description>
+  <maintainer email="robotics@itb.ac.id">Dagozilla ITB</maintainer>
+  <license>MIT</license>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>launch</exec_depend>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <buildtool_depend>ament_python</buildtool_depend>
+</package>
